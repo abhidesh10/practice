@@ -1,0 +1,3 @@
+let anagrams = () => {};
+
+anagrams();
